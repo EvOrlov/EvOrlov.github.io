@@ -53,8 +53,9 @@
 ## Работа с базами данных
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" title="MySQL" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://github.com/user-attachments/assets/8a66d437-28b5-425f-8f60-742ff864a846" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" title="Redis" alt="SQLite" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
   <img src="https://github.com/user-attachments/assets/d96ba6b4-51d6-4cf6-ab2d-975166f6b2cc" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
@@ -63,9 +64,11 @@
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" title="pytest" alt="Selenium" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" title="pytest" alt="Playwright" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/40ea2334-f766-4378-8ff0-8f9a76b8e45b" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/40ea2334-f766-4378-8ff0-8f9a76b8e45b" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
@@ -82,13 +85,32 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+
+[//]: # ([<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">]&#40;https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png&#41;)
+
+[//]: # ([<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">]&#40;https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png&#41;)
+
+## Сертификаты Stepik
+
+[<img src="images/selenium.png" width="280px" hspace="10px" alt="Автоматизация тестирования»">](images/selenium.png)
+[<img src="images/sql_simulator.png" width="280px" hspace="10px" alt="Интерактивный тренажер SQL»">](images/sql_simulator.png)
+[<img src="images/data_science.png" width="280px" hspace="10px" alt="Введение в Data Science»">](images/data_science.png)
+[<img src="images/async_python.png" width="280px" hspace="10px" alt="Асинхронный Python»">](images/async_python.png)
+[<img src="images/advanced_python.png" width="280px" hspace="10px" alt="Python. Курс для продвинутых»">](images/advanced_python.png)
+[<img src="images/indie_pyhton.png" width="280px" hspace="10px" alt="Инди-курс Python»">](images/indie_pyhton.png)
+[<img src="images/python_programming.png" width="280px" hspace="10px" alt="Программирование на Python»">](images/python_programming.png)
+[<img src="images/python_contests.png" width="280px" hspace="10px" alt="Контесты по программированию на Python»">](images/python_contests.png)
+[<img src="images/python_in_examples.png" width="280px" hspace="10px" alt="Python в примерах и задачах»">](images/python_in_examples.png)
+[<img src="images/python_mathematics.png" width="280px" hspace="10px" alt="Практикум по математике и Python»">](images/python_mathematics.png)
+[<img src="images/statisics.png" width="280px" hspace="10px" alt="Основы статистики»">](images/statisics.png)
+[<img src="images/basic_linux.png" width="280px" hspace="10px" alt="Введение в Linux»">](images/basic_linux.png)
+[<img src="images/js_beginners.png" width="280px" hspace="10px" alt="JS для начинающих»">](images/js_beginners.png)
+[<img src="images/python_base.png" width="280px" hspace="10px" alt="Python: основ и применение»">](images/python_base.png)
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=purple)](mailto:seaman2774@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Seaman2774)
 
