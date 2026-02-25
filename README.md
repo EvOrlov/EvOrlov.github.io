@@ -1,6 +1,6 @@
-# EvOrlov.github.io
+#### EvOrlov.github.io
 ## Привет！ 👋
-Меня зовут Евгений, я QA Engineer
+Меня зовут Евгений и я QA Engineer. Для удовольствия разрабатываю свои проекты на Python. 
 
 ## 📊 Статистика
 
